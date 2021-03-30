@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+D:\digital inovation one\.metadata\.plugins\org.eclipse.jdt.core
-3826318721.index
-3838545456.index
-1574843208.index
